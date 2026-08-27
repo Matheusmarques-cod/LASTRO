@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "LASTRO",
+      "hasCanvas": false,
+      "bodyTextLen": 429,
+      "bodyTextHash": "9cb8dc5cc7ae9402112564004925a5632c1e88826818c4b9125038e24f6248cf",
+      "bodyTextPrefix": "SISTEMA OPERACIONAL LASTRO Difícil de descarrilar. TDAH forte nã",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "LASTRO",
+      "hasCanvas": false,
+      "bodyTextLen": 429,
+      "bodyTextHash": "9cb8dc5cc7ae9402112564004925a5632c1e88826818c4b9125038e24f6248cf",
+      "bodyTextPrefix": "SISTEMA OPERACIONAL LASTRO Difícil de descarrilar. TDAH forte nã",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
